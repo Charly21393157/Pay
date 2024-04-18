@@ -35,8 +35,8 @@ const paymentRequest = {
       tokenizationSpecification: {
         type: 'PAYMENT_GATEWAY',
         parameters: {
-          gateway: 'VuePay',
-          gatewayMerchantId: 'BCR2DN4TYHQ2ZQ2H'
+          gateway: 'example',
+          gatewayMerchantId: 'exampleGatewayMerchantId'
         }
       }
     }
